@@ -3,3 +3,9 @@
       System.out.println("Podaj haslo");
       System.out.println("Kliknij na przycisk zaloguj");
     }
+
+    public void logowanie microsoft() {
+      System.out.println("Podaj nazwe uzytkownika microsoft");
+      System.out.println("Podaj haslo");
+      System.out.println("Kliknij na przycisk zaloguj");
+    }

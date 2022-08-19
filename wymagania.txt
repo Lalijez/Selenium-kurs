@@ -1,3 +1,11 @@
 Logowanie do aplikacji:
 - uzytkownik to adres email w poprawnej formacji
 - haslo musi spelniac normy bezpieczenstwa
+
+Logowanie do aplikacji Google:
+- uzytkownik to adres email w poprawnej formacji
+- haslo musi spelniac normy bezpieczenstwa
+
+Logowanie do aplikacji Microsoft:
+- uzytkownik to adres email w poprawnej formacji
+- haslo musi spelniac normy bezpieczenstwa
